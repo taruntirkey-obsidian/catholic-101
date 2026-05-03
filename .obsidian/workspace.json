@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "adabb997219196cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b045921994706553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e0816a008cf939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/Why Catholics pray for the Dead.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why Catholics pray for the Dead"
+            }
+          },
+          {
+            "id": "cd2b52cb6f9bc92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Holy Rosary of the Blessed Virgin Mary"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8a09144eb6b7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "928cf924815d19bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd0f14c8c6717bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d86348bac65f5501",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54399d11e7ae3ca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97bea524ab413e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb4520194b85900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c3101b985d74c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6- Full Notes/Why Catholics pray for the Dead.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Why Catholics pray for the Dead"
+            }
+          },
+          {
+            "id": "72802039b1bf4272",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6- Full Notes/Why Catholics pray for the Dead.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Why Catholics pray for the Dead"
+            }
+          },
+          {
+            "id": "33c7dca28e3d1093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b468dc1b15a3181",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6- Full Notes/Why Catholics pray for the Dead.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Why Catholics pray for the Dead"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd2b52cb6f9bc92f",
+  "lastOpenFiles": [
+    "6- Full Notes/Why Catholics pray for the Dead.md",
+    "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md"
+  ]
+}
