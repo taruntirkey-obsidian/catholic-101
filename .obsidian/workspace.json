@@ -11,10 +11,14 @@
             "id": "eac931d0fb72485f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Understanding the Rosary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Understanding the Rosary"
             }
           }
         ]
@@ -165,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac931d0fb72485f",
+  "active": "7dd0f14c8c6717bc",
   "lastOpenFiles": [
     "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
-    "6- Full Notes/Understanding the Rosary.md",
+    "1- Rough Notes/Understanding the Rosary.md",
     "6- Full Notes/Why Catholics pray for the Dead.md"
   ]
 }
