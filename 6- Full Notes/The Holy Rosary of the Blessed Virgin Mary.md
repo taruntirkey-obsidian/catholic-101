@@ -1,4 +1,4 @@
-### *What Is the Holy Rosary?*  
+### *What Is the Holy Rosary?*
 The Holy Rosary is both a proclamation of our Catholic faith and a meditation on the life of our Lord Jesus Christ. Through it, we walk with Mary through the key moments of Jesus’ life.
 
 ### *How Do We Pray the Rosary?*
