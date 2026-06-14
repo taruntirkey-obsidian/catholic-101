@@ -1,5 +1,6 @@
 # What is the Holy Rosary?
-It is the proclamation of our faith and meditation on the life of our Lord Jesus Christ.
+*The Rosary: The Hail Marys are the quiet rhythm, and Christ’s life is the scene we’re invited to contemplate with Mary.*
+The Holy Rosary is a proclamation of our faith and a meditation on the life of our Lord Jesus Christ. Think of it as mentally walking through Christ’s life with His Mother. It’s like asking our Blessed Mother to lead us to her Son. These events happened 2000 years ago, so by mentally entering those moments, we dive into the mysteries through meditation.
 
 Before praying the rosary, it is dedicated to our Lord, along with the common or personal prayer intentions.
 Beginning with a profession of our faith through the Apostles' Creed.
@@ -7,15 +8,15 @@ Then the Lord's prayer for the Holy Father, his intentions, his well-being and h
 Followed by three Hail Marys for the increase in the virtues of faith, hope and charity.
 Then Glory Be.
 
-Then the meditation starts on Joyful, Sorrowful, Glorious or Luminous mysteries. Each contains 5 mysteries. Each mystery is meditated upon with one Lord's prayer, ten Hail Marys, and one Glory Be. After the meditation on each mystery, Fatima's prayer is prayed. This is repeated for 5 mysteries.
+Then the meditation starts on Joyful, Sorrowful, Glorious or Luminous mysteries. Each contains 5 mysteries. Each mystery is meditated upon with one Lord's prayer, ten Hail Marys', and one Glory Be. After the meditation on each mystery, Fatima's prayer is prayed. This is repeated for 5 mysteries.
 
-Hail Holy Queen is prayed in honour of our Lady and for her intercession.
+Hail Holy Queen is prayed in honor of our Lady and for her intercession.
 
 There is a closing prayer for grace to obtain the promises and to imitate what this devotion contains.
 # Why so many Hail Marys?
 There are several aspects of it:
-- Luke 1:48, "all generations will call me blessed". This is not pride, but the Holy Spirit speaking through her. This was a prophecy. We honour her. We honour the Mother of God. So, what's best to honour her with the words of the angel of God, Gabriel and the words of Elizabeth, which the Holy Spirit spoke through her.
-- Those words mean more than honouring her. The conversation between Angel Gabriel and Mother Mary is the first time the Gospel is announced. After the end of this conversation, the Word became flesh. This is confirmed by the Holy Spirit through Elizabeth.
+- Luke 1:48, "all generations will call me blessed". This is not pride, but the Holy Spirit speaking through her. This was a prophecy. We honor her. We honor the Mother of God. So, what's best to honor her with the words of the angel of God, Gabriel and the words of Elizabeth, which the Holy Spirit spoke through her.
+- Those words mean more than honoring her. The conversation between Angel Gabriel and Mother Mary is the first time the Gospel is announced. After the end of this conversation, the Word became flesh. This is confirmed by the Holy Spirit through Elizabeth.
 - The first half of the prayer, taken from Luke 1:28 and 42, encompasses the message from the Father, confirmation from the Holy Spirit and the Word becoming flesh. The role of our Divine God, the Holy Trinity, in the salvation history.
 - Luke 2:19 and 51 tells that she used to treasure the events in the life of Jesus and ponder upon them. We meditate on the life and the works of Jesus with her and produce the fruits acquired from the meditation on the Holy Rosary of the Blessed Virgin Mary.
 - The second part is asking for the intercession of our Lady, the one chosen to be the mother of God, the one closest to our Lord. So basically, we ask that our meditation really result in the Word becoming flesh, that we become little imitators of Christ.
