@@ -1,0 +1,13 @@
+1. For a God who is perfectly Holy, it is fitting that the vessel (Mother Mary) should be perfectly Holy.
+
+2. Jesus is the only one who chose and created His mother.
+
+3. Just like we prepare a place to welcome an honoured guest, God prepared the body of Mother Mary for the arrival of His Son in the Holy Spirit.
+
+4. What did God do originally? He created humans in His own image and likeness (Genesis 1:26-27). But the fall of man separated us from Him. When Jesus came, He brought the New Covenant with Him. He said His blood is the blood of the New Covenant (Mark 14:24). The New Covenant reunites us with God and inaugurates the transformation of humanity and ultimately the whole creation (2 Corinthians 5:17, Ephesians 4:22-24).
+
+5. Christ said new wine can not be kept in old wine skin because it will tear it apart. It has to be kept in new wine skin (Luke 5:37-38). Old wine skin can be understood as those not yet renewed, and new wine as the fullness of Spirit and New Covenant teaching, which they can not contain unless they become newly receptive. 
+
+6. Mother Mary, who received Christ fully, from whom He acquired flesh and blood, from her to enter His creation. It was God's grace that transformed her to receive Him. Mother of the new creation, not that she is the creator, but a witness and first disciple of Christ. Jesus Christ, fully God and fully man, was in her womb, making her the God-bearer. God began the transformation of humanity, starting with her, as previously mentioned, old wine skin can not hold new wine; it has to be kept in a new wine skin.
+
+7. A doubt may arise. We may think that she was transformed when she said yes. But when God created Adam and Eve, they were without sin. If the first Eve, mother of all the living, was created without sin, isn't it appropriate for the New Eve (Revelation 12:17) to be created sinless through God's grace? After all, through Mary—through her maternal ‘fiat’, (‘Let it be done to me’)—God begins a New Covenant with humanity. This is the eternal and definitive Covenant in Christ. We also get a hint of this when angel Gabriel addressed her as "Chaire, kecharitomene". The Root Verb (Charitoo): This verb means "to endow with grace, favour, or spiritual beauty." The Reduplication (Ke-): The prefix indicates the perfect tense. In Greek, the perfect tense means an action was completely finished in the past, but its results continue permanently into the present. It implies she was already filled with grace before the angel even arrived. The Suffix (-mene): This makes it a feminine passive participle. It shows Mary is the female receiver of this action, completely transformed by God’s grace rather than generating it herself.
