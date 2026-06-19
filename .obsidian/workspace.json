@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3ac0bff21d5e35",
+        "id": "4d4add8986486a05",
         "type": "tabs",
         "children": [
           {
-            "id": "16fe7b22f3b248f3",
+            "id": "328eae3f26571567",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6- Full Notes/Marian Dogma- The Immaculate Conception.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Marian Dogma- The Immaculate Conception"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "97bea524ab413e4a",
@@ -169,12 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16fe7b22f3b248f3",
+  "active": "328eae3f26571567",
   "lastOpenFiles": [
-    "1- Rough Notes/Immaculate Conception of Mary.md",
+    "6- Full Notes/The Biblical Case for Loving Mother Mary.md",
     "6- Full Notes/Marian Dogma- The Immaculate Conception.md",
-    "1- Rough Notes/Understanding the Rosary.md",
+    "6- Full Notes/Why Catholics pray for the Dead.md",
     "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
-    "6- Full Notes/Why Catholics pray for the Dead.md"
+    "3- Tags/Tags.md",
+    "3- Tags/Purgatory.md",
+    "3- Tags/Afterlife.md",
+    "1- Rough Notes/Immaculate Conception of Mary.md",
+    "1- Rough Notes/Why Catholics love Mother Mary so much.md",
+    "1- Rough Notes/Understanding the Rosary.md"
   ]
 }

@@ -21,3 +21,5 @@ We see a hint of this when the Angel Gabriel addressed her as “Chaire, kechari
 - **Suffix _-mene_**: Makes it a feminine passive participle. Mary is the receiver of this action, completely transformed by God’s grace, not by her own power.
 
 **Mary was already filled with grace before Gabriel arrived.** Because _kecharitomene_ indicates a perfected, permanent state of grace reaching back into the past, it implies Mary was preserved from original sin from the very moment of her conception.
+# References
+[[Immaculate Conception of Mary]]

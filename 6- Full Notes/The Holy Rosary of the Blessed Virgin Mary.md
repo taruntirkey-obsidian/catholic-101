@@ -72,3 +72,5 @@ The Holy Rosary is both a proclamation of our Catholic faith and a meditation on
 
 ### *Pro Tip: Pray It as Lectio Divina*  
 Don’t rush. Whenever possible, read the Scripture for each mystery before the decade. Let the Word sink in. This turns your Rosary from repetition into a deep encounter. It’ll bear fruit not just during prayer, but in your daily life too.
+# References
+[[Understanding the Rosary]]
