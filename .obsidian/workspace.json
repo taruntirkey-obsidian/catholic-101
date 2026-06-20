@@ -11,13 +11,52 @@
             "id": "328eae3f26571567",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Why Catholics honor Mary so much.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Why Catholics honor Mary so much"
+            }
+          },
+          {
+            "id": "fb090e078f39ee52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/Reasons We Honor Mother Mary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reasons We Honor Mother Mary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97bea524ab413e4a",
@@ -166,8 +204,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "328eae3f26571567",
+  "active": "fb090e078f39ee52",
   "lastOpenFiles": [
+    "1- Rough Notes/Why Catholics honor Mary so much.md",
+    "6- Full Notes/Reasons We Honor Mother Mary.md",
     "6- Full Notes/The Biblical Case for Loving Mother Mary.md",
     "6- Full Notes/Marian Dogma- The Immaculate Conception.md",
     "6- Full Notes/Why Catholics pray for the Dead.md",
