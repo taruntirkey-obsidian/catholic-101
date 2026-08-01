@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e19c43470aae748a",
+        "id": "7f2667bf843a6cab",
         "type": "tabs",
         "children": [
           {
-            "id": "26b2f63d1ae6295a",
+            "id": "2305431a728aaf15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6- Full Notes/Understanding WORSHIP in the Bible.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Understanding WORSHIP in the Bible"
+              "title": "New tab"
             }
           }
         ]
@@ -181,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26b2f63d1ae6295a",
+  "active": "2305431a728aaf15",
   "lastOpenFiles": [
+    "6- Full Notes/Understanding WORSHIP in the Bible.md",
+    "6- Full Notes/Catholic Understanding of Worship.md",
+    "1- Rough Notes/Understanding Worship through Biblical References.md",
+    "6- Full Notes/1019632181062842.md",
     "4- Index/Worship/Worship Words Index.md",
     "4- Index/Worship/Shachah.md",
     "4- Index/Worship/Proskuneo.md",
@@ -191,7 +181,6 @@
     "3- Tags/Afterlife.md",
     "3- Tags/Purgatory.md",
     "4- Index/Index.md",
-    "6- Full Notes/Understanding WORSHIP in the Bible.md",
     "6- Full Notes/Why Catholics pray for the Dead.md",
     "6- Full Notes/Understanding the term WORSHIP in the Bible.md",
     "1- Rough Notes/Understanding the Term WORSHIP in the Bible.md",

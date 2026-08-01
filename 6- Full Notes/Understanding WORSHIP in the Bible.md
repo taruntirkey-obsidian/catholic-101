@@ -19,22 +19,21 @@ The Bible distinguishes between *civil honor* and *sacred worship*. Only God rec
 
 ## 2. Shachah in the Old Testament
 
-### Examples of Non-Divine Use
-- **To Kings**: 2 Samuel 1:2 - messenger to David. 1 Kings 1:16 - Bathsheba to Solomon
-- **To Family**: Genesis 33:3 - Jacob bows 7 times to Esau
-- **To Prophets**: 1 Kings 18:7 - Obadiah to Elijah. 2 Kings 2:15 - sons of prophets to Elisha
-- **To Foreigners**: Genesis 23:7 - Abraham to Hittites
+- **Meaning**: To bow down, prostrate oneself, pay homage. Physical posture of humility.
+- **Used for God**: Exodus 20:5, Deuteronomy 6:13, Psalm 95:6
+- **Used for People**: Genesis 33:3 Jacob to Esau, 1 Samuel 25:23 Abigail to David
+- **Used for Kings/Angels**: 1 Chronicles 29:20, Daniel 2:46
 
-### Key Verses
-**1 Chronicles 29:20**
-`wayyiqqəḏū` "they bowed heads" + `wayyištaḥăwū` "they prostrated *shachah*" before YHWH **and** the king.
-Same physical act, two recipients.
+### Key Hebrew Examples
 
-**Joshua 7:6**
-Joshua "fell to the earth upon his face *shachah*" before the Ark in mourning.
+| Hebrew | Transliteration | Root | Meaning | Example |
+| --- | --- | --- | --- | --- |
+| וַיִּקְדּוּ | **wayyiqqəḏū** | q-d-h קדה | "and they bowed down" | Gen 24:26, 52. Abraham’s servant |
+| וַיִּשְׁתַּחֲווּ | **wayyištaḥăwū** | sh-ch-h שחה | "and they prostrated / worshipped" | Gen 24:26, 48, 52. Same scene |
 
-**2 Chronicles 29:28-30**
-Corporate religious adoration *shachah* during Hezekiah’s temple service.
+> **Note**: Genesis 24:26 uses both together: "He *bowed down* `wayyiqqəḏū` and *worshipped* `wayyištaḥăwū` the LORD." 
+> Hebrew pairs them to show both the **body posture** + **heart direction**. 
+> This is a **Vertical** example of `shachah` - to God.
 
 ---
 
@@ -44,7 +43,6 @@ Corporate religious adoration *shachah* during Hezekiah’s temple service.
 - **To Masters**: Matthew 18:26 - servant to master in parable
 - **To Believers**: Revelation 3:9 - enemies will `proskuneo` at feet of Philadelphia church
 - **To Jesus in Mockery**: Mark 15:19 - soldiers kneel to mock Him as king
-
 ### Instances of Attempted Worship of Humans/Angels
 1. **Cornelius and Peter**
    Acts 10:25-26 — "When Peter entered, Cornelius met him and fell down at his feet and *proskuneo*. But Peter lifted him up, saying, 'Stand up; I too am a man.'"
@@ -60,12 +58,24 @@ Corporate religious adoration *shachah* during Hezekiah’s temple service.
 
 ## 4. Latreuo: Sacred Service Reserved for God
 
-- **Meaning**: Temple service, priestly ministry, sacrificial worship. Not just bowing.
+- **Meaning**: Temple service, priestly ministry, cultic/sacrificial worship. Not just bowing.  The kind of worship only priests did in the Temple. Because it’s about offering sacrifice to deity, the Bible never uses `latreuo` for humans. It’s reserved 100% for God.
 - **Matthew 4:10**: Jesus to Satan: "You shall *proskuneo* the Lord your God and *latreuo* Him only."
 - **Romans 12:1**: "Present your bodies... which is your *latreuo*."
 - **Hebrews 9:1, 6**: Used for Levitical priests serving in the tabernacle.
 
-**Rule**: `Proskuneo/Shachah` can be horizontal or vertical. `Latreuo` is vertical only.
+> [!important] The Key Rule
+> **Proskuneo/Shachah can be horizontal or vertical. Latreuo is vertical only.**
+>
+> **Horizontal** = toward people. Bowing to kings, masters, family. Example: Genesis 33:3, Matthew 18:26  
+> **Vertical** = toward God. Worship, adoration, prayer.
+>
+> `shachah` and `proskuneo` describe a *posture* of respect. So they can go both ways. 
+>
+> `latreuo` describes *sacrificial temple service*. The Bible never uses it for humans. It is reserved for God alone.
+
+### Why this matters
+This is the biblical basis for distinguishing *civil honor* from *divine worship*. 
+The same physical act of bowing is not automatically worship. What makes it worship is the object + the kind of service being offered.
 
 ---
 
@@ -114,6 +124,7 @@ Corporate religious adoration *shachah* during Hezekiah’s temple service.
 
 ## References
 [[1- Rough Notes/Understanding the Term WORSHIP in the Bible|Understanding the Term WORSHIP in the Bible]]
+[[Understanding Worship through Biblical References]]
 [1] https://fbctecumseh.org
 [2] https://www.facebook.com
 [3] https://www.scribd.com
