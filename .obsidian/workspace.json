@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2305431a728aaf15",
+            "id": "18b92d5a7c7457c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/Why am I Catholic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Why am I Catholic"
             }
           }
         ]
@@ -167,10 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2305431a728aaf15",
+  "active": "18b92d5a7c7457c4",
   "lastOpenFiles": [
+    "1- Rough Notes/Papacy-Authority of Peter and Successors.md",
+    "1- Rough Notes/Why am I Catholic.md",
+    "6- Full Notes/Why am I Catholic.md",
+    "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
     "6- Full Notes/Understanding WORSHIP in the Bible.md",
+    "6- Full Notes/Why Catholics pray for the Dead.md",
+    "6- Full Notes/The Biblical Case for Loving Mother Mary.md",
+    "6- Full Notes/Reasons We Honor Mother Mary.md",
+    "6- Full Notes/Mystery of Finding of Jesus in the Temple.md",
     "6- Full Notes/Catholic Understanding of Worship.md",
+    "6- Full Notes/Marian Dogma- The Immaculate Conception.md",
+    "Untitled.canvas",
     "1- Rough Notes/Understanding Worship through Biblical References.md",
     "6- Full Notes/1019632181062842.md",
     "4- Index/Worship/Worship Words Index.md",
@@ -181,20 +205,11 @@
     "3- Tags/Afterlife.md",
     "3- Tags/Purgatory.md",
     "4- Index/Index.md",
-    "6- Full Notes/Why Catholics pray for the Dead.md",
     "6- Full Notes/Understanding the term WORSHIP in the Bible.md",
     "1- Rough Notes/Understanding the Term WORSHIP in the Bible.md",
-    "6- Full Notes/Mystery of Finding of Jesus in the Temple.md",
     "1- Rough Notes/Understanding the Mystery of Finding of Jesus in the Temple.md",
-    "6- Full Notes/The Biblical Case for Loving Mother Mary.md",
-    "6- Full Notes/Marian Dogma- The Immaculate Conception.md",
     "1- Rough Notes/Praying for the Dead.md",
     "1- Rough Notes/Understanding the Rosary.md",
-    "1- Rough Notes/Why Catholics honor Mary so much.md",
-    "1- Rough Notes/Why Catholics love Mother Mary so much.md",
-    "1- Rough Notes/Immaculate Conception of Mary.md",
-    "6- Full Notes/Reasons We Honor Mother Mary.md",
-    "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
-    "3- Tags/Tags.md"
+    "1- Rough Notes/Why Catholics honor Mary so much.md"
   ]
 }
