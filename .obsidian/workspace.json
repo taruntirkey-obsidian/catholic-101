@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f2667bf843a6cab",
+        "id": "fcf6ea0db31f51d8",
         "type": "tabs",
         "children": [
           {
-            "id": "18b92d5a7c7457c4",
+            "id": "d5e2a060e995e930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6- Full Notes/Why am I Catholic.md",
+                "file": "1- Rough Notes/A Theological Defense of Catholic Dogma- Mary, the Saints, and Divine Grace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why am I Catholic"
+              "title": "A Theological Defense of Catholic Dogma- Mary, the Saints, and Divine Grace"
+            }
+          },
+          {
+            "id": "bd34b46714cca63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/Mariology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mariology"
+            }
+          },
+          {
+            "id": "fae2974a3e6acab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Full Notes/Mariology Deepdive.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mariology Deepdive"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,11 +230,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b92d5a7c7457c4",
+  "active": "fae2974a3e6acab2",
   "lastOpenFiles": [
+    "6- Full Notes/Mariology.md",
+    "6- Full Notes/Mariology Deepdive.md",
+    "1- Rough Notes/A Theological Defense of Catholic Dogma- Mary, the Saints, and Divine Grace.md",
+    "1- Rough Notes/Ruler of this World.md",
+    "1- Rough Notes/Immaculate Conception of Mary.md",
+    "6- Full Notes/Why am I Catholic.md",
     "1- Rough Notes/Papacy-Authority of Peter and Successors.md",
     "1- Rough Notes/Why am I Catholic.md",
-    "6- Full Notes/Why am I Catholic.md",
     "6- Full Notes/The Holy Rosary of the Blessed Virgin Mary.md",
     "6- Full Notes/Understanding WORSHIP in the Bible.md",
     "6- Full Notes/Why Catholics pray for the Dead.md",
@@ -205,11 +259,6 @@
     "3- Tags/Afterlife.md",
     "3- Tags/Purgatory.md",
     "4- Index/Index.md",
-    "6- Full Notes/Understanding the term WORSHIP in the Bible.md",
-    "1- Rough Notes/Understanding the Term WORSHIP in the Bible.md",
-    "1- Rough Notes/Understanding the Mystery of Finding of Jesus in the Temple.md",
-    "1- Rough Notes/Praying for the Dead.md",
-    "1- Rough Notes/Understanding the Rosary.md",
-    "1- Rough Notes/Why Catholics honor Mary so much.md"
+    "6- Full Notes/Understanding the term WORSHIP in the Bible.md"
   ]
 }
