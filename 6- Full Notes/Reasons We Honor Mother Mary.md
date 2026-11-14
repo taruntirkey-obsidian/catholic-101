@@ -1,8 +1,10 @@
-We honor her because God chose her to be the Mother of our Lord Jesus Christ _(Luke 1:43)_.  
-We honor her because she shared her humanity with the Son of God _(Galatians 4:4)_.  
-We honor her because Christ received His flesh and blood from her _(Hebrews 10:5)_.  
-We honor her because she carried the Divine Child in her womb, nourishing Him with her own blood for nine months.  
-We honor her because she nursed Him after birth and cared for Him _(Luke 2:7)_.  
+Tags: [[Mother Mary]] | [[New Ark of the Covenant]]
+
+We honor her because God chose her to be the Mother of our Lord Jesus Christ _(Luke 1:43)_.
+We honor her because she shared her humanity with the Son of God _(Galatians 4:4)_.
+We honor her because Christ received His flesh and blood from her _(Hebrews 10:5)_.
+We honor her because she carried the Divine Child in her womb, nourishing Him with her own blood for nine months.
+We honor her because she nursed Him after birth and cared for Him _(Luke 2:7)_.
 We honor her because Christ Himself honored her and was obedient to her _(Luke 2:51)_.
 
 **We honor her because she is the New Ark of the Covenant**

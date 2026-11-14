@@ -1,3 +1,5 @@
+Tags: [[Mother Mary]]
+
 ### Scripture Calls Her “The Woman”  
 _Genesis 3:15_ – “I will put enmity between you and the woman, and between your offspring and hers; he will strike your head, and you will strike his heel.”  
 

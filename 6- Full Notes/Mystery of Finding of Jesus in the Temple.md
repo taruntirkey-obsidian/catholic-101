@@ -1,3 +1,4 @@
+Tags: [[The Holy Rosary]]
 ### 1. The Annual Journey to Jerusalem (Luke 2:41-42)
 #### The Scripture
 "Every year Jesus’ parents went to Jerusalem for the Festival of the Passover. When he was twelve years old, they went up to the festival, according to the custom." – **Luke 2:41-42**

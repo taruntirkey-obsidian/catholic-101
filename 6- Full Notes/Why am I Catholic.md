@@ -1,3 +1,5 @@
+Tags: [[One Holy Catholic Apostolic Church]] | [[Apostolic Succession]]
+
 ## 1. What is the Church?
 
 According to Ephesians 1:23 and 1 Corinthians 12:27, the Church is the Body of Christ, and we are integral parts of it.
@@ -49,11 +51,10 @@ This apostolic mission continues through preaching and the sacraments. As St. Pa
 
 As Jesus’ disciples, where else can we seek truth if not through His Church? As Peter confessed, "Lord, to whom can we go? You have the words of eternal life" (John 6:68).
 
-*3. The Eucharist*
+## 3. The Eucharist
 
 The Eucharist is the Body, Blood, Soul, and Divinity of our Lord.
 
 This is the source and summit of the Christian life (CCC 1324).
-
 # References
 [[1- Rough Notes/Why am I Catholic|Why am I Catholic]]

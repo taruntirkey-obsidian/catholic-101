@@ -1,3 +1,4 @@
+Tags: [[Mother Mary]] | [[Marian Dogma]] | [[Mother of God]] | [[Immaculate Conception]]
 ## 1. A Holy Vessel for a Holy God  
 For a God who is perfectly holy, it is fitting that the vessel He chose — Mother Mary — would be made perfectly holy too. The Ark of the Old Covenant was made of pure gold because it carried God’s presence _(Exodus 25:11)_. How much more should Mary, the living Ark who carried Christ Himself, be pure?
 ## 2. Jesus Chose and Prepared His Mother
