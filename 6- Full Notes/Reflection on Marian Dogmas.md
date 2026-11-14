@@ -158,5 +158,4 @@ When examining Mary’s preservation from sin, three piercing philosophical and 
 - **Pope Pius XII (1950)** — Apostolic Constitution _Munificentissimus Deus_ (Solemn definition of the Assumption of Mary).
 - **Catechism of the Catholic Church (CCC, 1992)** — Paragraphs 88 (Dogma), 375–412 (Original Holiness and the Fall), 490–511 (Marian Dogmas), and 828 (Canonization of Saints).
 # References
-1. [[A Theological Defense of Catholic Dogma- Mary, the Saints, and Divine Grace]]
-2. [[Mariology]]
+[[A Theological Defense of Catholic Dogma- Mary, the Saints, and Divine Grace]]
