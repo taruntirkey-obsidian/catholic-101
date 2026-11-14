@@ -58,6 +58,31 @@ You have raised a sharp and classic linguistic objection, distinguishing between
 - **Catholic Honesty on the Text**: As a Catholic apologist, I readily grant that the word _kecharitomene_ by itself does not contain the explicit phrase "born without original sin." You cannot extract the entire dogma of the Immaculate Conception solely from a single Greek verb form in isolation.
 - **Reading Within the Whole Tapestry**: Instead, _kecharitomene_ acts as a crucial piece of the biblical puzzle. When you combine Gabriel's declaration that Mary is already permanently defined by grace (before Jesus is even conceived) with **Genesis 3:15** (total enmity with the serpent), **Luke 1:42–43** (Mary as the Ark of the Covenant), and the unanimous witness of the **Early Church Fathers** who saw her as the sinless New Eve, the linguistic evidence aligns seamlessly with Catholic dogma.
 
+### Koine Greek Grammer
+This quote breaks down a specific grammatical pattern in Koine and Classical Greek: ==**verbs ending in `-oō` (or `-όω`)**==.
+
+Instead of just doing an action _to_ something, these verbs mean **to cause someone or something to enter completely into the state or condition** named by the root word.
+
+How the `-oō` Ending Works
+
+In Greek, adding `-oō` to a root transforms a noun or concept into a _totalizing, causative state_:
+
+- **Root:** _Plērês_ (full) → **Verb:** _**Plēroō**_ (_πληρόω_) → It doesn't just mean "to put some water in a cup"; it means **to fill completely, to brim over, or to make entirely full**. 
+- **Root:** _Charis_ (grace, favor, charm) → **Verb:** _**Charitoō**_ (_χαριτόω_) → It doesn't mean "to give a passing compliment" or a mild favor; it means **to completely imbue, wrap, or transform someone with grace**.
+
+---
+
+Unpacking _Kecharitomene_
+
+The word _**kecharitomene**_ (κεχαριτωμένη), famously used in Luke 1:28 when the angel Gabriel greets Mary, isn't just a simple adjective like "nice" or "favored." It is a packed grammatical combination:
+
+1. **The Root (_Charis_ → _Charitoō_):** Because of the `-oō` ending, Mary isn't just "showing grace" or receiving a single polite favor; she has been **thoroughly saturated or transformed by grace**. 
+2. **The Prefix (_Ke-_) & Participle Ending (-_mene_):** It is in the **perfect passive participle** form.
+    - **Passive (-_mene_):** She didn't generate or earn this grace herself; it was **bestowed upon her** by an outside actor (God).
+    - **Perfect Tense (_Ke-_):** In Greek, the perfect tense indicates a **completed action in the past whose results continue permanently into the present**.
+
+Put it all together: _**Kecharitomene**_ translates to someone who was completely, thoroughly, and enduringly filled/transformed by grace in the past, and who remains in that permanent state of grace.
+
 Over to you. How do you respond to the distinction between the Greek perfect tense and a simple adjective, or would you like to press on how the early Fathers interpreted this verse?
 
 Would you like to examine how **early Greek-speaking Church Fathers** (like Origen or St. John Chrysostom) understood _kecharitomene_, or challenge the **New Eve and Ark of the Covenant** typology?
