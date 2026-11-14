@@ -22,6 +22,19 @@ A common linguistic objection notes that Luke 1:28 uses _kecharitomene_ (literal
 - **Replacing Mary's Proper Name**: In Greek, Gabriel says, _Chaire, kecharitomene_ ("Hail, graced one"), omitting her given name (_Mariam_), even though he uses her name two verses later (Luke 1:30). By substituting _kecharitomene_ for her name, the angel treats this completed state of grace as her defining identity—much like God renaming Abram to Abraham or Simon to Peter to signify their permanent mission in salvation history. When St. Jerome translated the New Testament into Latin (the Vulgate) in the late fourth century, while Koine Greek was still natively spoken, he rendered _kecharitomene_ as _gratia plena_ ("full of grace") to capture this enduring fullness.
 - **Honest Hermeneutical Balance**: Catholic theology readily grants that _kecharitomene_ alone does not explicitly spell out the dogma of the Immaculate Conception in isolation. Rather, it serves as a vital linguistic cornerstone that, when read alongside Genesis 3:15, Luke 1:42–43, and the testimony of the Early Church Fathers, harmonizes seamlessly with Mary’s sinlessness.
 
+>[!important] To fully resolve this, we must examine a specific grammatical pattern in Koine and Classical Greek: ***verbs ending in `-oō` (or `-όω`)***. Instead of just doing an action *to* something, these verbs mean ***to cause someone or something to enter completely into the state or condition*** named by the root word.
+  **How the `-oō` Ending Works**
+  In Greek, adding `-oō` to a root transforms a noun or concept into a *totalizing, causative state*:
+> - **Root**:** *Plērês* (full) → **Verb:** ***Plēroō*** (*πληρόω*) → It doesn't just mean "to put some water in a cup"; it means **to fill completely, to brim over, or to make entirely full**.
+> - **Root**:** *Charis* (grace, favor, charm) → **Verb:** ***Charitoō*** (*χαριτόω*) → It doesn't mean "to give a passing compliment" or a mild favor; it means **to completely imbue, wrap, or transform someone with grace**.
+>**Unpacking *Kecharitomene***
+   The word ***kecharitomene*** (κεχαριτωμένη), famously used in Luke 1:28 when the angel Gabriel greets Mary, isn't just a simple adjective like "nice" or "favored." It is a packed grammatical combination:
+> 1. **The Root (*Charis* → *Charitoō*):** Because of the `-oō` ending, Mary isn't just "showing grace" or receiving a single polite favor; she has been **thoroughly saturated or transformed by grace**.
+> 2. **The Prefix (*Ke-*) & Participle Ending (-*mene*):** It is in the **perfect passive participle** form.
+    * **Passive (-*mene*):** She didn't generate or earn this grace herself; it was **bestowed upon her** by an outside actor (God).
+    * **Perfect Tense (*Ke-*):** In Greek, the perfect tense indicates a **completed action in the past whose results continue permanently into the present**.
+>Put it all together: ***Kecharitomene*** translates to someone who was completely, thoroughly, and enduringly filled/transformed by grace in the past, and who remains in that permanent state of grace.
+
 ---
 
 ## II. The Canonization of Saints and Ecclesiastical Authority
